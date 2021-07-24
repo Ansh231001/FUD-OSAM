@@ -1,0 +1,43 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F98404;
+}
+/* carousel */
+.fooditems{
+    width: 65%;
+    height: 80vh;
+    position: relative;
+    left: 285px;
+    box-shadow: 0 12px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+#carouselExampleDark{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.foodcarousel{
+    font-family: 'Encode Sans SC', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    line-height: 2;
+    color: antiquewhite;
+}
+
+.menu{
+    width: 150px;
+    height: 150px;
+    float: right;
+    position: relative;
+    bottom: 20px;
+    box-shadow: 0 12px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+.list{
+    padding: 20px 30px 20px 30px;
+}
+#footer{
+    text-align: center;
+    padding-top: 40px;
+    
+    font-family: 'Montserrat', sans-serif;
+}
